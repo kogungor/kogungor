@@ -2,8 +2,8 @@
 *Interdisciplinary Cybersecurity · Intelligence Studies · War and Terrorism Studies · Psychological Warfare*
 
 [![Website](https://img.shields.io/badge/kog.wtf-000000?style=flat-square&logo=firefox&logoColor=white)](https://kog.wtf/en/)
- | Security Engineer @ [![Gauntlet](https://media.licdn.com/dms/image/v2/D5622AQEfim6O65sKhg/feedshare-shrink_800/feedshare-shrink_800/0/1689449961285?e=2147483647&v=beta&t=6nZ5WxGOJ_PMuvGBvrI35GeyC6FvfH3_D1Xw9g4EGlQ)]
- | Nomad @[![Cyber Struggle](https://img.shields.io/badge/Cyber_Struggle-8B0000?style=flat-square&logo=shield&logoColor=white)](https://cyberstruggle.org)
+ | Security @ [![Gauntlet](https://img.shields.io/badge/Gauntlet-FFFFFF.svg?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjUgMTUwIj48cGF0aCBmaWxsPSIjNzc3Q0Y0IiBkPSJNMCAwaDEwMHYyNUgyNXY3NUgwek01MCA1MGg1MHY3NUgyNXYtMjVoNTBWNzVINTB6Ii8%2BPHBhdGggZmlsbD0iI0ZGODBBNSIgZD0iTTEwMCAyNWgyNXYyNWgtMjV6Ii8%2BPHBhdGggZmlsbD0iIzIxMUUyRCIgZD0iTTAgMTI1aDI1djI1SDB6Ii8%2BPC9zdmc%2B)]
+ | Nomad/Founder @[![Cyber Struggle](https://img.shields.io/badge/Cyber_Struggle-8B0000?style=flat-square&logo=shield&logoColor=white)](https://cyberstruggle.org)
  | Lecturer @[![Kadir Has University](https://img.shields.io/badge/Kadir_Has_Uni-1a1a2e?style=flat-square&logo=academia&logoColor=white)](https://khas.edu.tr)
 
 </div>
